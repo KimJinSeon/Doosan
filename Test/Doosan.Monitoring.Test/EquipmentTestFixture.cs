@@ -28,7 +28,6 @@ namespace Doosan.Monitoring.Test
             }
         }
 
-
         public void EquipmentsTest()
         {
             IList<Equipment> getAdminBoardListResult = new List<Equipment>
