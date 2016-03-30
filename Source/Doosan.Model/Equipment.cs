@@ -8,7 +8,7 @@ namespace Doosan.Model
 {
     public class Equipment
     {
-
+        public string GoodsCode { get; set; }
     }
 
     public class Equipment2
