@@ -8,6 +8,7 @@ namespace Doosan.Model
 {
     public class Equipment
     {
+
     }
 
     public class Equipment2
